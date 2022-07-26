@@ -10,7 +10,7 @@ const Project1 = () => (
   <PageLayout
     title="Kick Some Bass" // Title and Heading
     demoLink="https://github.com/vrundsoni0032/MyPortfolio" // Demo Link - Remove this line if don't have demo
-    video="https://www.youtube.com/embed/dQw4w9WgXcQ" // Remove if doen't have video
+    video="https://www.youtube.com/embed/353Bkl_6pk8" // Remove if doen't have video
   >
     <Themed.p>
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Non tempore reiciendis consequuntur? Dignissimos tenetur architecto commodi dolor mollitia expedita inventore modi fugiat vitae quidem illo, voluptates iusto nemo totam provident.
