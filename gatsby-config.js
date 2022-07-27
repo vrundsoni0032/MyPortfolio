@@ -10,7 +10,7 @@ module.exports = {
     siteTitle: `Vrund Soni - Portfolio`,
     siteTitleAlt: `Vrund Soni - Portfolio`,
     siteHeadline: `Vrund Soni - Portfolio`,
-    siteUrl: ``,
+    siteUrl: `https://vrundsoni.com`,
     siteDescription: `Vrund Soni - Portfolio`,
     siteLanguage: `en`,
     siteImage: ``,
