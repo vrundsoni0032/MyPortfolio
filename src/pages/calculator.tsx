@@ -13,11 +13,11 @@ const Project1 = () => (
     video="https://www.youtube.com/embed/3-pUhee_mmM" // Remove if doen't have video
   >
     <Themed.p>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Non tempore reiciendis consequuntur? Dignissimos tenetur architecto commodi dolor mollitia expedita inventore modi fugiat vitae quidem illo, voluptates iusto nemo totam provident.
+      part1.
     </Themed.p>
 
     <Themed.p>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Non tempore reiciendis consequuntur? Dignissimos tenetur architecto commodi dolor mollitia expedita inventore modi fugiat vitae quidem illo, voluptates iusto nemo totam provident.
+      part2.
     </Themed.p>
   </PageLayout>
 )
