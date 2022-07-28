@@ -17,7 +17,7 @@ const Project1 = () => (
     </Themed.p>
 
     <Themed.p>
-     part 2..
+     part 2.. again...
     </Themed.p>
   </PageLayout>
 )
